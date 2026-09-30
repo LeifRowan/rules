@@ -1,4 +1,6 @@
 payload:
+  # CDN
+  # https://cdn.jsdelivr.net/gh/LeifRowan/rules@master/rule/claude/claude.yaml
   # 核心域名
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
